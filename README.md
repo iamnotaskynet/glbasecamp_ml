@@ -1,1 +1,4 @@
-# glbasecamp_ml
+# GLOBAL LOGIC 
+# MACHINE LEARNING
+# BASECAMP NOTES
+
