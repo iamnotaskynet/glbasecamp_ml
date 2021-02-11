@@ -131,7 +131,7 @@ ____________          ________     |             | Data        |
     ^                              |                |^
     |                              |                V|
     |                              |               __________
-    |                              |              | Modeling |
+    |                              |              | Modeling |<---- Machine Learning here
     |                              |              |__________|
     |                  _____________                  |
     -------------------| Evaluetion |<----------------|
@@ -142,9 +142,10 @@ ____________          ________     |             | Data        |
 
 ### Buisiness understanding:
 
-
-
 ...
 
-???
+- [mlflow](https://mlflow.org/)
+- [automl](https://cloud.google.com/automl)
+
+
 [Feature selection](https://en.wikipedia.org/wiki/Feature_selection)
