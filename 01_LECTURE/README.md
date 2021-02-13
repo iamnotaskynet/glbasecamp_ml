@@ -86,7 +86,7 @@ Human is bottleneck, when:
 - Vectors, matrices, tensors
 - Linear and non-linear transformations
 - Dot product, matrix multiplication
-- Matrux Inverse
+- Matrix Inverse
 - Eigenvectors and Eigenvalues
 - Singular Value Decomposition
 
@@ -134,7 +134,7 @@ ____________          ________     |             | Data        |
     |                              |              | Modeling |<---- Machine Learning here
     |                              |              |__________|
     |                  _____________                  |
-    -------------------| Evaluetion |<----------------|
+    -------------------| Evaluation |<----------------|
                        |____________|
 
 
